@@ -37,5 +37,6 @@ int main()
     // Displays a message greeting the user and the area of the circle.
     cout << "Hi " << name << ", the area of a circle with a radius of "
          << radius << " is " << area << "." << endl;
+    
     return 0;
 }
